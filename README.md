@@ -12,7 +12,7 @@
 
 ![spongebob gif](https://media.tenor.com/Vi4nIBggYBMAAAAM/spongebob-exams.gif)
 
-##### Here's a song I've been listening to lately [Click Here](https://www.youtube.com/watch?v=rYH7gknIrj8)
+##### Here's a song I've been listening to lately: [Click Here](https://www.youtube.com/watch?v=rYH7gknIrj8)
 
 ### I love statistics because:
 1. it's fun
