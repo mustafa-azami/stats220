@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 
 ```{css}
 body {
-  background-image: url(https://www.ncuk.ac.uk/wp-content/uploads/2018/06/The-University-of-Auckland-Image-Gallery-1.jpg);
+  background-image: url("https://www.ncuk.ac.uk/wp-content/uploads/2018/06/The-University-of-Auckland-Image-Gallery-1.jpg");
   color: white;
 }
 
